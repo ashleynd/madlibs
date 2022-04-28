@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <h2>
+    The   jumped over the  .
+  </h2>
+  <img
+    alt="gif"
+    class="gif"
+    src="https://media.giphy.com/media/fnK0jeA8vIh2QLq3IZ/giphy.gif"
+  />
+</DocumentFragment>
+`;

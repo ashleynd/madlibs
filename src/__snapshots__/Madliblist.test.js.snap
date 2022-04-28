@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <form>
+      <p>
+        <label
+          for="noun"
+        />
+        <input
+          id="noun"
+          name="noun"
+          placeholder="Noun"
+          required=""
+          type="text"
+          value=""
+        />
+      </p>
+      <p>
+        <label
+          for="noun2"
+        />
+        <input
+          id="noun2"
+          name="noun2"
+          placeholder="Noun 2"
+          required=""
+          type="text"
+          value=""
+        />
+      </p>
+      <p>
+        <label
+          for="adjective"
+        />
+        <input
+          id="adjective"
+          name="adjective"
+          placeholder="Adjective"
+          required=""
+          type="text"
+          value=""
+        />
+      </p>
+      <p>
+        <label
+          for="color"
+        />
+        <input
+          id="color"
+          name="color"
+          placeholder="Color"
+          required=""
+          type="text"
+          value=""
+        />
+      </p>
+      <button>
+        Get Story
+      </button>
+    </form>
+    <div />
+  </div>
+</DocumentFragment>
+`;
