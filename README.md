@@ -1,3 +1,22 @@
+## npm start
+
+## To deploy:
+## https://javascript.plainenglish.io/deploy-a-react-app-using-surge-1061a626794c
+### npm run build
+### cd build
+### domain: happy-crime.surge.sh
+
+### To update, run these commands in terminal after you push to Github:
+### npm run build
+### cd build
+### surge
+### domain: happy-crime.surge.sh
+
+## To run:
+### npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
